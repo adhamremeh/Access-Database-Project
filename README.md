@@ -45,8 +45,6 @@ the address of that section in hospital
 
 
 
-
-
 SEC_manager Table:
 •	ID: 
 Section manger Id
