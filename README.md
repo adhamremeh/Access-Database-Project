@@ -11,6 +11,7 @@ This project is a hospital database, we made tables in this database about (doct
 
 The Entity Relationship Diagram (ERD)
 
+![Capture](https://user-images.githubusercontent.com/125047290/218610760-a669d71b-14a7-4115-81db-0c657281ba97.PNG)
 
 
 
